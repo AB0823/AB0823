@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 Currently: Digital Specialist Engineer at Infosys
-🌱 Skills: Spark, Kafka, Databricks, ADF, Scikit-learn, PyTorch
-👯 Deployed projects: NLP pipelines, recommendation systems
-📫 aditib0823@gmail.com | aditi-bengani [https://www.linkedin.com/in/aditi-bengani/]
+- 🔭 Currently: Digital Specialist Engineer at Infosys
+- 🌱 Skills: Spark, Kafka, Databricks, ADF, Scikit-learn, PyTorch
+- 👯 Deployed projects: NLP pipelines, recommendation systems
+- 📫 aditib0823@gmail.com | aditi-bengani [ https://www.linkedin.com/in/aditi-bengani/ ]
