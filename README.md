@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Currently: Digital Specialist Engineer at Infosys
-- 🌱 Skills: Spark, Kafka, Databricks, ADF, Scikit-learn, PyTorch
-- 👯 Deployed projects: NLP pipelines, recommendation systems
-- 📫 aditib0823@gmail.com | aditi-bengani [ https://www.linkedin.com/in/aditi-bengani/ ]
+- Currently: Digital Specialist Engineer at Infosys
+- 🌱 Skills: Python, LLMs, Generative AI, LangChain, LangGraph, AI Agents, Chatbots, RAG, Prompt Engineering, Scikit-learn, PyTorch, Databricks, Azure Data Factory (ADF), Azure Machine Learning, MLOps, GenAIOps
+- 👯 Deployed projects: NLP pipelines, recommendation systems, RAG applications, multi-agent AI systems, AI research assistants
+- 🔭 Currently exploring: Multi-Agent Systems, Agentic AI, RAG, LLM Applications, Azure AI
+- 📫 aditib0823@gmail.com | LinkedIn: https://www.linkedin.com/in/aditi-bengani/
